@@ -73,6 +73,7 @@
     "nooverlay.CameraMixin",
     "nooverlay.HudMixin",
     "nooverlay.ScreenEffectRendererMixin",
+    "nopitchlimit.EntityMixin",
     "nopumpkin.HudMixin",
     "noshieldoverlay.FirstPersonHandsAndItemsRendererMixin",
     "noslowdown.EntityMixin",
